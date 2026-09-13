@@ -6,9 +6,9 @@
 
 Invite-only 12-week IBM Quantum program for selected client learners from diverse roles. It mixes theory with hands-on Qiskit coding so participants become practitioners who can run utility-scale workloads.
 
-Five units grow in complexity—from Qiskit basics to utility-scale methods such as sample-based quantum diagonalization (SQD)—and finish with a team Capstone: a toy research project on a use case of interest. Passing the Capstone qualifies for the [Road to Practitioner Program](https://www.credly.com/org/ibm/badge/road-to-practitioner-program) badge.
+The five units include Qiskit basics to utility-scale methods such as sample-based quantum diagonalization (SQD) and finish with a team research Capstone. Passing the Capstone qualifies for the [Road to Practitioner Program](https://www.credly.com/org/ibm/badge/road-to-practitioner-program) badge.
 
-**By the end of the program, a learner can:**
+**I can:**
 
 - Apply core quantum algorithms, Qiskit Patterns, and quantum–classical hybrid workflows
 - Use current Qiskit tooling for transpilation, error mitigation, variational methods (QAOA, VQE), QML, Hamiltonian simulation, and SQD
