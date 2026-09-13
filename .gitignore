@@ -1,0 +1,34 @@
+# Python environments
+.venv/
+venv/
+env/
+r2p-venv/
+**/r2p-venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets and credentials
+apikey.json
+apikey*.json
+*apikey*.json
+.env
+.env.*
+!.env.example
+credentials.json
+*.pem
+
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Box notes (proprietary local format)
+*.boxnote
