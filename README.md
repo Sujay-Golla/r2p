@@ -1,8 +1,20 @@
-# R2P
+# Road to Practitioner (R2P)
 
-Coursework, coding assignments, and capstone challenges for IBM Quantum Road to Practitioner Program.
-<img width="1060" height="1060" alt="image" src="https://github.com/user-attachments/assets/d14a30da-09ac-43f4-9c55-059f193c6d7a" />
+<a href="https://www.credly.com/org/ibm/badge/road-to-practitioner-program">
+  <img src="road-to-practitioner-badge.png" alt="IBM Road to Practitioner Program badge" align="right" width="160">
+</a>
 
+Invite-only 12-week IBM Quantum program for selected client learners from diverse roles. It mixes theory with hands-on Qiskit coding so participants become practitioners who can run utility-scale workloads.
+
+Five units grow in complexity—from Qiskit basics to utility-scale methods such as sample-based quantum diagonalization (SQD)—and finish with a team Capstone: a toy research project on a use case of interest. Passing the Capstone qualifies for the [Road to Practitioner Program](https://www.credly.com/org/ibm/badge/road-to-practitioner-program) badge.
+
+**By the end of the program, a learner can:**
+
+- Apply core quantum algorithms, Qiskit Patterns, and quantum–classical hybrid workflows
+- Use current Qiskit tooling for transpilation, error mitigation, variational methods (QAOA, VQE), QML, Hamiltonian simulation, and SQD
+- Run dynamic circuits (including mid-circuit measurement) and utility-scale jobs on IBM Quantum hardware with Qiskit Runtime
+
+This repo holds the coursework, coding assignments, and Capstone challenges from the program.
 
 ## Layout
 
