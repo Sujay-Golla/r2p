@@ -1,6 +1,8 @@
 # R2P
 
-Coursework, coding assignments, and capstone challenges for R2P (Qiskit / IBM Quantum).
+Coursework, coding assignments, and capstone challenges for IBM Quantum Road to Practitioner Program.
+<img width="1060" height="1060" alt="image" src="https://github.com/user-attachments/assets/d14a30da-09ac-43f4-9c55-059f193c6d7a" />
+
 
 ## Layout
 
